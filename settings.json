@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "matmikmigspatellada.aternos.me:15329",
+    "ip": "matmikmigspatellada.aternos.me",
     "port": 15329,
     "version": "",
     "try-creative": false
